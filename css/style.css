@@ -55,7 +55,7 @@ a:active {
     opacity: .7;
 }
 
-h1, h2, h3 {
+h1, h2 {
     font-family: 'BERNIERDISTRESSED';
 }
 
@@ -139,8 +139,8 @@ h2 {
     padding-top: 120px;    
     background-image: url(./../assets/images/bg\ head.webp);
     background-repeat: no-repeat;
-    background-position: center 80px;
-    background-size: auto 87%;
+    background-position: bottom 50px center;
+    background-size: cover;
     margin-bottom: 70px;
 }
 
@@ -447,6 +447,7 @@ h2 {
 
 .tarif__title {
     text-align: center;
+    font-family: 'BERNIERDISTRESSED';
     line-height: 100px;
     font-size: 35px;
     text-transform: uppercase;
